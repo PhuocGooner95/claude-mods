@@ -1,0 +1,11 @@
+{
+  "name": "phuoc-claude-mods",
+  "owner": { "name": "PhuocGooner95" },
+  "plugins": [
+    {
+      "name": "trung-dia",
+      "source": "./trung-dia",
+      "description": "Giao diện Claude Desktop phong cách sử thi giả tưởng: giấy da cũ ban ngày, đá đêm ánh lửa ban tối, nền hoàng hôn núi lửa có tháp mắt lửa và đoàn lữ khách"
+    }
+  ]
+}
